@@ -1,0 +1,13 @@
+#copy the entire code to clipboard
+# open a terminal
+# navigate to the folder you want to work on then type:
+     
+     nano main.c and enter
+     
+#now paste the source code to nano and save it (Ctrl+x then y)
+# to compile, copy the following command :   
+
+      cc main.c -o nameOfTheProgram
+      
+ #
+
