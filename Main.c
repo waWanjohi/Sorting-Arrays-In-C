@@ -23,12 +23,12 @@ int main(void){
             {t=a[i];
             a[i+1]=t;}}}
 
-                printf("\n Ascending order:");
+                printf("\n Ascending order: \n");
                 for(i-0;i<n;i++){
                 printf("%d",a[i]);
             }
 
-                printf("\n Descending order:");
+                printf("\n Descending order: \n");
                 for(i=n;i>0;i--){
                 printf("%d",a[i-1]);
             }
