@@ -19,13 +19,6 @@ void main(){
 
                 printf("\nNumber is odd");
             }
-printf("'                 _      \n ");
-printf("     ___     /  /_       \n");
-printf("   /   _   \ /  __  \     \n");
-printf("  /   /_/   /  /   /  /     \n");
-printf("  \ ____ /_/   /_/      \n ");
-printf("                                 \n ");
-printf("                                     \n ");
-printf("                              \n    ");
+
             return 0;
 }
