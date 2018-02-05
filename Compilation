@@ -1,19 +1,21 @@
 
-//note that ths is only for the terminal command line
+//note that this is only for the terminal command line
 
-copy the entire code to clipboard
- open a terminal
- navigate to the folder you want to work on then type:
+#copy the entire code to clipboard
+ #open a terminal
+ #navigate to the folder you want to work on then type:
      
-     nano main.c and enter
+     nano main.c
      
-now paste the source code to nano and save it (Ctrl+x then y)
- to compile, copy the following command :   
+     
+#...and enter
+     
+#now paste the source code to nano and save it (Ctrl+x then y)
+# to compile, copy the following command :   
 
       cc main.c -o nameOfTheProgram
       
-type ./nameOfTheProgram to run the program
+#type ./nameOfTheProgram to run the program
 
-Good luck!
-
+#Good luck!😁
 
