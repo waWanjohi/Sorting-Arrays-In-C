@@ -1,3 +1,5 @@
+//Calculates average and grade for the entered courses
+
 #include <stdio.h>
 
 int main()
